@@ -1,71 +1,44 @@
-# Getting Started with Create React App
+# Proxima Developers
+Proxima Developers is a training and education center in Azerbaijan focused on information technology. Our aim is to create excitement in our students by using new teaching methodologies rather than traditional classroom settings.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Why Choose Us?
+Comfortable Learning
+We understand that comfort is crucial for effective learning. That's why our training programs are available both online and offline, providing flexibility for our students.
 
-## Available Scripts
+### Certification
+All our graduates are tested and provided with a certificate that is recognized in their field.
 
-In the project directory, you can run:
+### Global Exposure
+We provide references to both local and foreign companies for students who have successfully completed our training programs.
 
-### `npm start`
+### Math Is Not a Barrier
+Some young people believe that they cannot enter the IT field if they are not good at math. However, we use specialized programs that allow students to enter the IT field even if they have only a basic understanding of math.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Satisfaction
+We are committed to ensuring that all our students are satisfied with our training programs. We believe that the student should run towards learning, not away from it!
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Environment
+We understand that having a broad IT environment is essential for growth. Therefore, we support our students even after completing their training programs.
 
-### `npm test`
+## Our Training Programs
+### Program 1: .Net Back End Developer
+Duration: 12 Months
+Introduction to .Net (C#) programming language
+Information on using .Net
+SQL instruction
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Program 2: Introduction to Programming
+Duration: 1 Month
+Introduction to IT and programming languages
+Algorithms
+Introduction to C#, C++, Python, JavaScript, Java
 
-### `npm run build`
+### Program 3: Front-End Programming
+Duration: 5 Months
+HTML, CSS, JavaScript, TypeScript
+Angular
+Developing an individual portfolio website
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Stay in Touch
+Visit our website at proximadevelopers.com to learn more about our training programs and services. Please enter your email to stay updated on new training programs and courses.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# proximadevelopers
