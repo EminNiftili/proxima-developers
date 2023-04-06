@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e020a6ff.css",
+    "main.js": "/static/js/main.7cbffece.js",
+    "static/media/features-03-image-02.png": "/static/media/features-03-image-02.f2b60b18806100685a4c.png",
+    "static/media/features-03-image-01.png": "/static/media/features-03-image-01.dcf4809fcb5c58b120bf.png",
+    "static/media/hero-image-01.jpg": "/static/media/hero-image-01.111d52e4aa0d47cb42d4.jpg",
+    "static/media/features-03-image-03.png": "/static/media/features-03-image-03.52bec3427f5f8638e641.png",
+    "static/media/crimson-pro-all-400-normal.woff": "/static/media/crimson-pro-all-400-normal.7fea63fcf88020662463.woff",
+    "static/media/crimson-pro-latin-400-normal.woff2": "/static/media/crimson-pro-latin-400-normal.56ea918eed2581f663ae.woff2",
+    "static/media/crimson-pro-latin-ext-400-normal.woff2": "/static/media/crimson-pro-latin-ext-400-normal.d1556684a4c4c4b88f69.woff2",
+    "static/media/crimson-pro-vietnamese-400-normal.woff2": "/static/media/crimson-pro-vietnamese-400-normal.18c188ec6862cdc9ecdf.woff2",
+    "index.html": "/index.html",
+    "main.e020a6ff.css.map": "/static/css/main.e020a6ff.css.map",
+    "main.7cbffece.js.map": "/static/js/main.7cbffece.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e020a6ff.css",
+    "static/js/main.7cbffece.js"
+  ]
+}
